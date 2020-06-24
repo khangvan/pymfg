@@ -17,7 +17,7 @@
 
 * Twitter: [@khangvan](https://twitter.com/khangvan)
 * Github: [@khangvan](https://github.com/khangvan)
-* LinkedIn: [@thaikhangvan](https://linkedin.com/in/khangvan)
+* LinkedIn: [@khangvan](https://linkedin.com/in/khangvan)
 
 ## Show your support
 
