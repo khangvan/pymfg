@@ -1,0 +1,8 @@
+setup.py
+pymfg/__init__.py
+pymfg/kpack.py
+pymfg.egg-info/PKG-INFO
+pymfg.egg-info/SOURCES.txt
+pymfg.egg-info/dependency_links.txt
+pymfg.egg-info/not-zip-safe
+pymfg.egg-info/top_level.txt
